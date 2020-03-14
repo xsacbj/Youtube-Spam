@@ -1,2 +1,2 @@
 # Youtube-Spam
-Videos em canais grandes no Youtube comumente são aproveitados por canais pequenos para divulgarem seu trabalho. Isto por vez pode atrapalhar a experiencia dos inscritos ao usar o chat. Este tabalho consiste na classificação de comentários spam nos chats do YouTube afim de detectar e eliminar os mesmos, melhorando assim a relação entre os inscritos e o criador de conteúdo.
+Videos on large YouTube channels are commonly used by small channels to publicize their work. This in turn can disrupt the experience of subscribers when using the chat. This work consists of the classification of spam comments in YouTube chats in order to detect and eliminate them, thus improving the relationship between subscribers and the content creator.
